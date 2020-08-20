@@ -1,3 +1,5 @@
+This code is associated with the paper from Harpaz et al., "Social interactions drive efficient foraging and income equality in groups of fish". eLife, 2020. http://doi.org/10.7554/eLife.56196
+
 # zebrafishForaging
 Code and data used in the publication: Harpaz, R., Schneidman, E. Social interactions drive efficient foraging and income equality in groups of fish. Elife (2020)
 
